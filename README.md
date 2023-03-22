@@ -2,12 +2,7 @@
 
 Welcome to the Smart Shopping List! This app is designed to help you keep track of items that you need to buy and how often you need to buy them. As a user, you will enter items (e.g., “Greek yogurt” or “Paper towels”) into your list. Each time you buy the item, you mark it as purchased in the list. Over time, the app comes to understand the intervals at which you buy different items. If an item is likely to be due to be bought soon, it rises to the top of the shopping list. Never forget to buy anything ever again!
 
-This application is deployed here: TBD
-
-## Application Demo
-
-<video src="public/Shopping_List_Combined_Demo_Shorter.mp4" controls="controls" type="video/mp4" style="max-width: 500px;">
-</video>
+This application is deployed [here](https://tcl-51-smart-shopping-list.web.app/).
 
 ## Development Team
 

@@ -4,6 +4,12 @@ Welcome to the Smart Shopping List! This app is designed to help you keep track 
 
 This application is deployed [here](https://tcl-51-smart-shopping-list.web.app/).
 
+## Project Demo
+
+
+https://user-images.githubusercontent.com/70449557/227368430-2a6b862f-4fe4-487a-801d-f31c5d9272b0.mp4
+
+
 ## Development Team
 
 This project was built as part of the [The Collab Lab's](https://the-collab-lab.codes/) program for early-career developers, by the TCL-51 cohort.
